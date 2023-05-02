@@ -1,0 +1,62 @@
+[
+  {
+    "id": "chef001",
+    "picture": "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "profilePicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "name": "Maria Rodriguez",
+    "experience": 15,
+    "numRecipes": 3,
+    "likes": 2500,
+    "role": "Head Chef"
+  },
+  {
+    "id": "chef002",
+    "picture": "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "profilePicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "name": "David Lee",
+    "experience": 8,
+    "numRecipes": 3,
+    "likes": 1200,
+    "role": "Assistant Chef"
+  },
+  {
+    "id": "chef003",
+    "picture": "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "profilePicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "name": "Emily Chen",
+    "experience": 12,
+    "numRecipes": 3,
+    "likes": 2000,
+    "role": "Head Chef"
+  },
+  {
+    "id": "chef004",
+    "picture": "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "profilePicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "name": "Peter Nguyen",
+    "experience": 6,
+    "numRecipes": 3,
+    "likes": 800,
+    "role": "Sous Chef"
+  },
+  {
+    "id": "chef005",
+    "picture": "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "profilePicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "name": "Chef Sarah Kim",
+    "experience": 10,
+    "numRecipes": 3,
+    "likes": 1500,
+    "role": "Assistant Chef"
+  },
+  {
+    "id": "chef006",
+    "picture": "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "profilePicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+    "name": "Chef Michael Brown",
+    "experience": 20,
+    "numRecipes": 120,
+    "likes": 3500,
+    "role": "Executive Chef"
+  }
+]
