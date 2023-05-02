@@ -13,7 +13,8 @@
     "strIngredient2": "Eggs",
     "strIngredient3": "Baking Powder",
     "strIngredient4": "Vanilla Extract",
-    "strIngredient5": "Oil"
+    "strIngredient5": "Oil",
+    "ratings": 4.3
   },
   {
     "chefId": "chef001",
@@ -30,7 +31,8 @@
     "strIngredient3": "Garlic",
     "strIngredient4": "Lime",
     "strIngredient5": "Bread",
-    "strIngredient6": "Meat"
+    "strIngredient6": "Meat",
+    "ratings": 4.8
   },
   {
     "chefId": "chef001",
@@ -47,7 +49,8 @@
     "strIngredient2": "Salt",
     "strIngredient3": "Onion",
     "strIngredient4": "Garlic",
-    "strIngredient5": "Thyme"
+    "strIngredient5": "Thyme",
+    "ratings": 4.1
   },
   {
     "chefId": "chef002",
@@ -64,7 +67,8 @@
     "strIngredient2": "Olive Oil",
     "strIngredient3": "Sesame Seed Burger Buns",
     "strIngredient4": "Onion",
-    "strIngredient5": "Iceberg Lettuce"
+    "strIngredient5": "Iceberg Lettuce",
+    "ratings": 4.5
   },
   {
     "chefId": "chef002",
@@ -81,7 +85,8 @@
     "strIngredient2": "Pickle Juice",
     "strIngredient3": "Egg",
     "strIngredient4": "Milk",
-    "strIngredient5": "Flour"
+    "strIngredient5": "Flour",
+    "ratings": 4.7
   },
   {
     "chefId": "chef002",
@@ -98,7 +103,8 @@
     "strIngredient2": "chicken stock",
     "strIngredient3": "heavy cream",
     "strIngredient4": "fajita seasoning",
-    "strIngredient5": "salt"
+    "strIngredient5": "salt",
+    "ratings": 4.2
   },
   {
     "chefId": "chef003",
@@ -115,7 +121,8 @@
     "strIngredient2": "Butter",
     "strIngredient3": "Cream Cheese",
     "strIngredient4": "Icing Sugar",
-    "strIngredient5": "Butter"
+    "strIngredient5": "Butter",
+    "ratings": 4.6
   },
   {
     "chefId": "chef003",
@@ -132,7 +139,8 @@
     "strIngredient2": "Milk Chocolate",
     "strIngredient3": "Salted Butter",
     "strIngredient4": "Light Brown Soft Sugar",
-    "strIngredient5": "Eggs"
+    "strIngredient5": "Eggs",
+    "ratings": 4.5
   },
   {
     "chefId": "chef003",
@@ -149,7 +157,8 @@
     "strIngredient2": "Butter",
     "strIngredient3": "Bacon",
     "strIngredient4": "Onion",
-    "strIngredient5": "Thyme"
+    "strIngredient5": "Thyme",
+    "ratings": 4.5
   },
   {
     "chefId": "chef004",
@@ -166,7 +175,8 @@
     "strIngredient2": "Carrots",
     "strIngredient3": "Small Potatoes",
     "strIngredient4": "Onion",
-    "strIngredient5": "Beef Stock"
+    "strIngredient5": "Beef Stock",
+    "ratings": 4.5
   },
   {
     "chefId": "chef004",
@@ -183,7 +193,8 @@
     "strIngredient2": "Butter",
     "strIngredient3": "Bacon",
     "strIngredient4": "Onion",
-    "strIngredient5": "Thyme"
+    "strIngredient5": "Thyme",
+    "ratings": 4.7
   },
   {
     "chefId": "chef004",
@@ -200,7 +211,8 @@
     "strIngredient2": "Olive Oil",
     "strIngredient3": "Sesame Seed Burger Buns",
     "strIngredient4": "Onion",
-    "strIngredient5": "Iceberg Lettuce"
+    "strIngredient5": "Iceberg Lettuce",
+    "ratings": 4.4
   },
   {
     "chefId": "chef005",
@@ -217,7 +229,8 @@
     "strIngredient2": "Salt",
     "strIngredient3": "Onion",
     "strIngredient4": "Garlic",
-    "strIngredient5": "Thyme"
+    "strIngredient5": "Thyme",
+    "ratings": 4.9
   },
   {
     "chefId": "chef005",
@@ -234,7 +247,8 @@
     "strIngredient2": "chicken stock",
     "strIngredient3": "heavy cream",
     "strIngredient4": "fajita seasoning",
-    "strIngredient5": "salt"
+    "strIngredient5": "salt",
+    "ratings": 4.8
   },
   {
     "chefId": "chef005",
@@ -251,7 +265,8 @@
     "strIngredient2": "Butter",
     "strIngredient3": "Cream Cheese",
     "strIngredient4": "Icing Sugar",
-    "strIngredient5": "Butter"
+    "strIngredient5": "Butter",
+    "ratings": 4.4
   },
   {
     "chefId": "chef006",
@@ -268,7 +283,8 @@
     "strIngredient3": "Garlic",
     "strIngredient4": "Lime",
     "strIngredient5": "Bread",
-    "strIngredient6": "Meat"
+    "strIngredient6": "Meat",
+    "ratings": 4.8
   },
   {
     "chefId": "chef006",
@@ -285,7 +301,8 @@
     "strIngredient2": "Carrots",
     "strIngredient3": "Small Potatoes",
     "strIngredient4": "Onion",
-    "strIngredient5": "Beef Stock"
+    "strIngredient5": "Beef Stock",
+    "ratings": 4.6
   },
   {
     "chefId": "chef006",
@@ -302,6 +319,7 @@
     "strIngredient2": "chicken stock",
     "strIngredient3": "heavy cream",
     "strIngredient4": "fajita seasoning",
-    "strIngredient5": "salt"
+    "strIngredient5": "salt",
+    "ratings": 4.5
   }
 ]
