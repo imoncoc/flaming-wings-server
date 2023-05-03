@@ -32,6 +32,11 @@ app.get("/chef/:id", (req, res) => {
   }
 });
 
+app.get("/recipe/allImages", (req, res) => {
+  const allImg = recipe.map((data) => data.strMealThumb);
+  res.send(allImg)
+})
+
 app.listen(port, () => {
     console.log(`Flaming wings is running on port: ${port}`);
 })

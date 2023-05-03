@@ -8,7 +8,8 @@
     "numRecipes": 3,
     "likes": 2500,
     "role": "Head Chef",
-    "details": "David Lee is a head chef who is deeply committed to his craft and his team. His passion for culinary excellence is evident in every dish he creates, and his dedication to his craft has earned him a reputation as one of the most talented and respected chefs in the industry."
+    "details": "David Lee is a head chef who is deeply committed to his craft and his team. His passion for culinary excellence is evident in every dish he creates, and his dedication to his craft has earned him a reputation as one of the most talented and respected chefs in the industry.",
+    "country": "American"
   },
   {
     "id": "chef002",
@@ -19,7 +20,8 @@
     "numRecipes": 3,
     "likes": 1200,
     "role": "Assistant Chef",
-    "details": "Maria's culinary journey began at a young age, where she developed a love for food and cooking. She went on to study at some of the top culinary schools, specializing in a wide range of cuisines and techniques. Her extensive training and experience have equipped her with a deep understanding of flavors, textures, and presentation."
+    "details": "Maria's culinary journey began at a young age, where she developed a love for food and cooking. She went on to study at some of the top culinary schools, specializing in a wide range of cuisines and techniques. Her extensive training and experience have equipped her with a deep understanding of flavors, textures, and presentation.",
+    "country": "American"
   },
   {
     "id": "chef003",
@@ -30,7 +32,8 @@
     "numRecipes": 3,
     "likes": 2000,
     "role": "Head Chef",
-    "details": "As a head chef, Andrew is known for his creativity, attention to detail, and commitment to using only the finest, freshest ingredients. His menus are a reflection of his passion for global cuisine, featuring a diverse range of flavors and textures that are expertly crafted and beautifully presented."
+    "details": "As a head chef, Andrew is known for his creativity, attention to detail, and commitment to using only the finest, freshest ingredients. His menus are a reflection of his passion for global cuisine, featuring a diverse range of flavors and textures that are expertly crafted and beautifully presented.",
+    "country": "American"
   },
   {
     "id": "chef004",
@@ -41,7 +44,8 @@
     "numRecipes": 3,
     "likes": 800,
     "role": "Sous Chef",
-    "details": "Peter Nguyen is a highly skilled and experienced sous chef with a passion for culinary excellence. He has spent over a decade in the industry, working alongside some of the most talented chefs in the world and refining his skills and techniques."
+    "details": "Peter Nguyen is a highly skilled and experienced sous chef with a passion for culinary excellence. He has spent over a decade in the industry, working alongside some of the most talented chefs in the world and refining his skills and techniques.",
+    "country": "American"
   },
   {
     "id": "chef005",
@@ -52,7 +56,8 @@
     "numRecipes": 3,
     "likes": 1500,
     "role": "Assistant Chef",
-    "details": "Christopher's culinary journey began at a young age, where he developed a love for food and cooking. He went on to study at some of the top culinary schools, specializing in a wide range of cuisines and techniques. His extensive training and experience have equipped her with a deep understanding of flavors, textures, and presentation."
+    "details": "Christopher's culinary journey began at a young age, where he developed a love for food and cooking. He went on to study at some of the top culinary schools, specializing in a wide range of cuisines and techniques. His extensive training and experience have equipped her with a deep understanding of flavors, textures, and presentation.",
+    "country": "American"
   },
   {
     "id": "chef006",
@@ -63,6 +68,7 @@
     "numRecipes": 3,
     "likes": 3500,
     "role": "Executive Chef",
-    "details": "Michael is also highly regarded for his leadership skills. He is a natural communicator and collaborator who inspires and motivates his team to deliver their best work. He has a talent for identifying and nurturing talent, and his kitchen is a dynamic and exciting environment where creativity and innovation are encouraged."
+    "details": "Michael is also highly regarded for his leadership skills. He is a natural communicator and collaborator who inspires and motivates his team to deliver their best work. He has a talent for identifying and nurturing talent, and his kitchen is a dynamic and exciting environment where creativity and innovation are encouraged.",
+    "country": "American"
   }
 ]
